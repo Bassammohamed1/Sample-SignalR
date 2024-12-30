@@ -1,20 +1,55 @@
-﻿<div class="container" style="margin-top:50px;">
-    <div class="row">
-        <div class="col-md-6">
-            <span>Enter your name:</span><br />
-            <input type="text" id="txtUser" /><br />
-            <span>Enter your message:</span><br />
-            <textarea id="txtMessage" rows="5" cols="23"> </textarea><br />
-            <button type="submit" id="btnSend" class="btn bg-danger">Send</button>
-        </div>
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
 
-        <div class="col-md-6">
-            <h3>Message List : </h3>
-            <ul id="list" class="alert alert-danger">
-            </ul>
-        </div>
-    </div>
-</div>
-<script src="~/lib/jquery/dist/jquery.js"></script>
-<script src="~/lib/signalr/dist/browser/signalr.js"></script>
-<script src="~/js/site.js"></script>
+<h1>Chat</h1>
+<input type="text" id="username" placeholder="your name Here!!" />
+</br>
+<input type="text" id="group" placeholder="Group here!!" />
+</br>
+<input type="text" id="txt" placeholder="Message here!!" />
+</br>
+<input type="button" value="Send to All" onclick="send()" />
+<input type="button" value="Send to Group" onclick="sendtogroup()" />
+<input type="button" value="join" onclick="joingroup()" />
+<br />
+<ul id="ul">
+</ul>
+
+@section Scripts {
+
+    <script src="~/microsoft/signalr/dist/browser/signalr.js"></script>
+    <script>
+        //define connection
+        con = new signalR.HubConnectionBuilder().withUrl("/chat").build();
+
+        //start connection
+        con.start();
+
+        //define call back fun
+        con.on("newmessage", function (n, m) {
+            $("#ul").append("<li>" + n + ":" + m + "</li>");
+        })
+
+        con.on("newmember", function (message) {
+            $("#ul").append("<li>" + message + "</li>");
+        })
+
+        con.on("newgroupmessage", function (name, groupname, message) {
+            $("#ul").append("<li>" + name + "[" + groupname + "]" + ":" + message + "</li>");
+        })
+
+        //define fun to consume server
+        function send() {
+            con.invoke("sendmessage", $("#username").val(), $("#txt").val())
+        }
+
+        function joingroup() {
+            con.invoke("joingroup", $("#username").val(), $("#group").val())
+        }
+
+        function sendtogroup() {
+            con.invoke("sendtogroup", $("#username").val(), $("#group").val(), $("#txt").val())
+        }
+    </script>
+}

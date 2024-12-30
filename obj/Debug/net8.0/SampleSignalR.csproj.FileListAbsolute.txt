@@ -1,0 +1,288 @@
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\appsettings.Development.json
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\appsettings.json
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\SampleSignalR.staticwebassets.runtime.json
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\SampleSignalR.exe
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\SampleSignalR.deps.json
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\SampleSignalR.runtimeconfig.json
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\SampleSignalR.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\SampleSignalR.pdb
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.AssemblyInfoInputs.cache
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.AssemblyInfo.cs
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.csproj.CoreCompileInputs.cache
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.RazorAssemblyInfo.cache
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.RazorAssemblyInfo.cs
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\staticwebassets.build.json
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\staticwebassets.development.json
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\staticwebassets\msbuild.SampleSignalR.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\staticwebassets\msbuild.build.SampleSignalR.props
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SampleSignalR.props
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SampleSignalR.props
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\scopedcss\bundle\SampleSignalR.styles.css
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\scopedcss\projectbundle\SampleSignalR.bundle.scp.css
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\refint\SampleSignalR.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.pdb
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.genruntimeconfig.cache
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\ref\SampleSignalR.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.csproj.AssemblyReference.cache
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Azure.Core.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Azure.Identity.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Humanizer.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.ClientModel.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.CodeDom.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Projects\MyProjects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.csproj.CopyComplete
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\appsettings.Development.json
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\appsettings.json
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\SampleSignalR.staticwebassets.runtime.json
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\SampleSignalR.exe
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\SampleSignalR.deps.json
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\SampleSignalR.runtimeconfig.json
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\SampleSignalR.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\SampleSignalR.pdb
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Azure.Core.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Azure.Identity.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Humanizer.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.ClientModel.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.CodeDom.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Memory.Data.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Projects\SampleSignalR\SampleSignalR\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.csproj.AssemblyReference.cache
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.AssemblyInfoInputs.cache
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.AssemblyInfo.cs
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.csproj.CoreCompileInputs.cache
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.MvcApplicationPartsAssemblyInfo.cache
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.RazorAssemblyInfo.cache
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.RazorAssemblyInfo.cs
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\staticwebassets.build.json
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\staticwebassets.development.json
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\staticwebassets\msbuild.SampleSignalR.Microsoft.AspNetCore.StaticWebAssets.props
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\staticwebassets\msbuild.build.SampleSignalR.props
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SampleSignalR.props
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SampleSignalR.props
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\staticwebassets.pack.json
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\scopedcss\bundle\SampleSignalR.styles.css
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\scopedcss\projectbundle\SampleSignalR.bundle.scp.css
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.csproj.CopyComplete
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.dll
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\refint\SampleSignalR.dll
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.pdb
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\SampleSignalR.genruntimeconfig.cache
+E:\My Projects\SampleSignalR\SampleSignalR\obj\Debug\net8.0\ref\SampleSignalR.dll

@@ -1,14 +1,15 @@
 using Microsoft.EntityFrameworkCore;
-using SignalR.Models;
-using System;
-using WebApplication1.Models;
+using SampleSignalR.Data;
+using SampleSignalR.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<AppDbContext>(x => x.UseSqlServer(builder.Configuration.GetConnectionString("MyConnection")));
 builder.Services.AddSignalR();
-builder.Services.AddDbContext<Context>(o => o.UseSqlServer(builder.Configuration.GetConnectionString("MyConnection")));
+
 
 var app = builder.Build();
 
@@ -27,7 +28,7 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-app.MapHub<ChatHub>("/chatHub");
+app.MapHub<ChatHub>("/chat");
 
 app.MapControllerRoute(
     name: "default",
